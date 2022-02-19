@@ -76,3 +76,9 @@ cypress/screenshots
 #serverless 
 
 serverless/contact-form-api/secrets.json
+
+# secrets
+secrets
+
+# contentful errors
+contentful*log*.json
